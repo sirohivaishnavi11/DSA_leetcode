@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sirohivaishnavi11/DSA_leetcode/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/sirohivaishnavi11/DSA_leetcode/tree/master/0414-third-maximum-number) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/sirohivaishnavi11/DSA_leetcode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
